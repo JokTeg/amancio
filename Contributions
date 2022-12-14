@@ -1,0 +1,559 @@
+
+# bitcoin
+### Hi there 👋
+
+<!--
+**amanciojsilvajr/amanciojsilvajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+- 👋 Hi, I’m @amanciojsilvajr
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+amanciojsilvajr/amanciojsilvajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> test//
+     test// 
+     test// 
+1.2.3.00.00 <t/> org " |>google ETH internet
+group {script> johhny orkut > ] ] move origin % 
+
+
+
+
+
+
+<h3 align="center">A Python Enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshs012&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshs012"/> </p>
+🤝 I’m looking for help with **React Js**
+📫 How to reach me **netanojohhny@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/amanciojsilvjr1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bhaveshs01" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Front End Stack</h3>
+<p align="left"> 
+
+
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+git init -b main
+
+git add . && git commit -m "initial commit"
+
+# Bitcoin Amanciojsilvjr Website
+
+A static [btc](https://g.page/amanciojsilvjr) site for hosting [amanciojsilvjr.com](https://www.blockchain.com/explorer/assets/btc).
+
+Bitcoin (BTC) is a decentralized currency that eliminates the need for central authorities such as banks or governments by using a peer-to-peer 
+internet network to confirm transactions directly between users [jodhqesh](https://github.com/BTCXBT).
+
+##  [install instructions](https://gohugo.io/getting-started/installing/).
+
+completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
+regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
+[Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
+
+Translations are periodically pulled from Transifex and merged into the git repository. See the
+
+### Preview your transcript
+
+Having a local build allows you to see how your transcript will be displayed in the website.
+
+The `preview_branch.sh` script allows you to preview how the changes in your branch will be displayed by building locally the website using your branch as the content submodule. Usage:
+
+```
+./preview_branch.sh <your-github-account> <your-branch-name> amanciojsilvjr 
+```
+
+## bitcoin XBT
+
+![STICKER_20220521064014](https://user-images.githubusercontent.com/114337456/192167544-79fc2ad1-70fb-4d7b-a1f6-598fe742ff1d.gif)
+<<<bitcoin 👣 q/* 
+All XBT snippets can be found in the `/ig.page/amanciojsilvjr` folder. Pre-configured languages are currently Spanish and Portuguese. If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/actions) and translating the appropraite [bitcoin file](https://twitter.com/amanciojsilvjr).
+
+We'd love transcripts in other languages so we've made every effort to make i18n as easy as possible.
+
+## Attributions
+
+This project was based on [XBT](https://www.blockchain.com/explorer/assets/btc) and would not be possible without the many years of work by The master branch is regularly built (see doc/build-*.md for instructions)
+
+The styling of this site is based on a modified version of the [ace documentation](https://github.com/vantagedesign/ace-documentation) theme.
+mkdir $HOME/src
+cd $HOME/src
+git clone https://bitcoin.org/
+Make sure that you do not have `walletbroadcast=0` in your `~/.bitcoin/bitcoin.conf`, or you may run into trouble.
+Notice that running `lightningd` against a pruned node may cause some issues if not managed carefully, see [below](#pruning) for more information.
+go install --tags extended
+# Example configuration file that:
+#  - Ignores lodash dependency
+#  - Disables version-updates
+
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "lodash"
+        # For Lodash, ignore all updates
+    # Disable version updates for npm dependencies
+    open-pull-requests-limit: 0
+jobs:
+  job_id:
+    # ...
+
+    # Add "id-token" with the intended permissions.
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
+    steps:
+    # actions/checkout MUST come before auth
+    - uses: 'actions/checkout@v3'
+
+    - id: 'auth'
+      name: 'Authenticate to Google Cloud'
+      uses: 'google-github-actions/auth@v0'
+      with:
+        workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
+        service_account: 'my-service-account@my-project.iam.gserviceaccount.com'
+
+    # ... further steps are automatically authenticated
+# Amanciojsilvjr to your organization's bitcoin respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+
+The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+
+# Set to true to add reviewers to PRs
+addReviewers: true
+
+# Set to 'author' to add PR's author as a assignee
+addAssignees: author
+
+# A list of reviewers to be added to PRs (GitHub user  name)
+reviewers:
+  - SecurityBTC
+  - octocat
+
+# A number of reviewers added to the PR
+# Set 0 to add all the reviewers (default: 0)
+numberOfReviewers: 1
+
+# A list of assignees, overrides reviewers if set
+assignees:
+  - SecurityBTC
+  - octocat
+
+# A number of assignees to add to the PRs
+# Set to 0 to add all of the assignees.
+# Uses numberOfReviewers if unset.
+numberOfAssignees: 0
+
+# A list of keywords to be skipped the process if PR's title include it
+skipKeywords:
+  - wip
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/curl#backer)]
+
+[![Open Collective Backers](https://opencollective.com/curl/backers.svg?width=890)](https://opencollective.com/curl#backers)
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a
+link to your website. [[Become a sponsor](https://opencollective.com/curl#sponsor)]
+<!-- markdown-link-check-disable -->
+[![Open Collective Sponsor 0](https://opencollective.com/curl/sponsor/0/avatar.svg)](https://opencollective.com/curl/sponsor/0/website)
+[![Open Collective Sponsor 1](https://opencollective.com/curl/sponsor/1/avatar.svg)](https://opencollective.com/curl/sponsor/1/website)
+[![Build Status](https://github.com/tree-sitter/tree-sitter/workflows/CI/badge.svg)](https://github.com/tree-sitter/tree-sitter/actions)
+[![Build status](https://ci.appveyor.com/api/projects/status/vtmbd6i92e97l55w/branch/master?svg=true)](https://ci.appveyor.com/project/maxbrunsfeld/tree-sitter/branch/master)
+[![DOI](https://zenodo.org/badge/14164618.svg)](https://zenodo.org/badge/latestdoi/14164618)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+
+
+<p align="center">
+ <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+ </a>
+</p>
+
+
+    
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="bits" /></p>
+<br>//amanciojsilvjr<bitcoin> <👉>
+<br>//amanciojsilvjr<bitcoin> <👉>
+<br>//amanciojsilvjr<bitcoin> <👉>
+<br>//amanciojsilvjr<bitcoin> <👉>
+<br>//amanciojsilvjr<bitcoin> <👉>
+<br>//amanciojsilvjr<bitcoin> <👉>
+<br>//amanciojsilvjr<bitcoin> <👉>
+
+source e passe um sinalizador de visibilidade (--public, --private ou --internal). Por exemplo, gh repo create --source=. --public. Especifique um repositório remoto com o sinalizador --remote. Para enviar seus commits por push, passe o sinalizador --push
+
+editor.find.seedSearchStringFromSelection to false.
+
+Find In Selection#
+
+
+
+
+# SLO Generator
+
+![test](https://github.com/google/slo-generator/workflows/test/badge.svg)
+![build](https://github.com/google/slo-generator/workflows/build/badge.svg)
+![deploy](https://github.com/google/slo-generator/workflows/deploy/badge.svg)
+[![PyPI version](https://badge.fury.io/py/slo-generator.svg)](https://badge.fury.io/py/slo-generator)
+[![Downloads](https://static.pepy.tech/personalized-badge/slo-generator?period=total&units=international_system&left_color=grey&right_color=orange&left_text=pypi%20downloads)](https://pepy.tech/project/slo-generator)
+
+`slo-generator` is a tool to compute and export **Service Level Objectives** ([SLOs](https://landing.google.com/sre/sre-book/chapters/service-level-objectives/)),
+**Error Budgets** and **Burn Rates**, using configurations written in YAML (or JSON) format.
+
+***IMPORTANT NOTE: the following content is the `slo-generator` v2 documentation. The v1 documentation is available [here](https://github.com/google/slo-generator/tree/v1.5.1), and instructions to migrate to v2 are available [here](https://github.com/google/slo-generator/blob/master/docs/shared/migration.md).***
+
+## Table of contents
+- [Description](#description)
+- [Local usage](#local-usage)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [CLI usage](#cli-usage)
+  - [API usage](#api-usage)
+- [Configuration](#configuration)
+  - [SLO configuration](#slo-configuration)
+  - [Shared configuration](#shared-configuration)
+- [More documentation](#more-documentation)
+  - [Build an SLO achievements report with BigQuery and DataStudio](#build-an-slo-achievements-report-with-bigquery-and-datastudio)
+  - [Deploy the SLO Generator in Cloud Run](#deploy-the-slo-generator-in-cloud-run)
+  - [Deploy the SLO Generator in Kubernetes (Alpha)](#deploy-the-slo-generator-in-kubernetes-alpha)
+  - [Deploy the SLO Generator in a CloudBuild pipeline](#deploy-the-slo-generator-in-a-cloudbuild-pipeline)
+  - [DEPRECATED: Deploy the SLO Generator on Google Cloud Functions (Terraform)](#deprecated-deploy-the-slo-generator-on-google-cloud-functions-terraform)
+  - [Contribute to the SLO Generator](#contribute-to-the-slo-generator)
+
+## Description
+The `slo-generator` runs backend queries computing **Service Level Indicators**, 
+compares them with the **Service Level Objectives** defined and generates a report 
+by computing important metrics:
+
+* **Service Level Indicator** (SLI) defined as **SLI = N<sub>good_events</sub> &#47; N<sub>valid_events</sub>**
+* **Error Budget** (EB) defined as **EB = 1 - SLI**
+* **Error Budget Burn Rate** (EBBR) defined as **EBBR = EB / EB<sub>target</sub>**
+* **... and more**, see the [example SLO report](./test/unit/../../tests/unit/fixtures/slo_report_v2.json).
+
+The **Error Budget Burn Rate** is often used for [**alerting on SLOs**](https://sre.google/workbook/alerting-on-slos/), as it demonstrates in practice to be more **reliable** and **stable** than 
+alerting directly on metrics or on **SLI > SLO** thresholds.
+
+## Local usage
+
+### Requirements
+
+* `python3.9` and above
+* `pip3`
+
+### Installation
+
+`slo-generator` is a Python library published on [PyPI](https://pypi.org). To install it, run:
+
+```sh
+pip3 install slo-generator
+```
+
+***Notes:***
+* To install **[providers](./docs/providers)**, use `pip3 install slo-generator[<PROVIDER_1>, <PROVIDER_2>, ... <PROVIDER_n]`. For instance:
+  *  `pip3 install slo-generator[cloud_monitoring]` installs the Cloud Monitoring backend / exporter.
+  *  `pip3 install slo-generator[prometheus, datadog, dynatrace]` install the Prometheus, Datadog and Dynatrace, backends / exporters.
+* To install the **slo-generator API**, run `pip3 install slo-generator[api]`.
+* To enable **debug logs**, set the environment variable `DEBUG` to `1`.
+* To enable **colorized output** (local usage), set the environment variable `COLORED_OUTPUT` to `1`.
+
+### CLI usage
+
+To compute an SLO report using the CLI, run:
+```
+slo-generator compute -f <SLO_CONFIG_PATH> -c <SHARED_CONFIG_PATH> --export
+```
+where:
+  * `<SLO_CONFIG_PATH>` is the [SLO configuration](#slo-configuration) file or folder path.
+
+  * `<SHARED_CONFIG_PATH>` is the [Shared configuration](#shared-configuration) file path.
+
+  * `--export` | `-e` enables exporting data using the `exporters` specified in the SLO
+  configuration file.
+
+Use `slo-generator compute --help` to list all available arguments.
+
+### API usage
+
+On top of the CLI, the `slo-generator` can also be run as an API using the Cloud 
+Functions Framework SDK (Flask) using the `api` subcommand:
+```
+slo-generator api --config <SHARED_CONFIG_PATH>
+```
+where:
+  * `<SHARED_CONFIG_PATH>` is the [Shared configuration](#shared-configuration) file path or GCS URL.
+
+Once the API is up-and-running, you can make HTTP POST requests with your SLO 
+configurations (YAML or JSON) in the request body:
+
+```
+curl -X POST -H "Content-Type: text/x-yaml" --data-binary @slo.yaml localhost:8080 # yaml SLO config
+curl -X POST -H "Content-Type: application/json" -d @slo.json localhost:8080 # json SLO config
+```
+
+To read more about the API and advanced usage, see [docs/shared/api.md](./docs/shared/api.md).
+
+## Configuration
+
+The `slo-generator` requires two configuration files to run, an **SLO configuration** 
+file, describing your SLO, and the **Shared configuration** file (common 
+configuration for all SLOs).
+
+### SLO configuration
+
+The **SLO configuration** (JSON or YAML) is following the Kubernetes format and 
+is composed of the following fields:
+
+* `api`: `sre.google.com/v2`
+* `kind`: `ServiceLevelObjective`
+* `metadata`:
+  * `name`: [**required**] *string* - Full SLO name (**MUST** be unique).
+  * `labels`: [*optional*] *map* - Metadata labels, **for example**:
+    * `slo_name`: SLO name (e.g `availability`, `latency128ms`, ...).
+    * `service_name`: Monitored service (to group SLOs by service).
+    * `feature_name`: Monitored feature (to group SLOs by feature).
+
+* `spec`:
+  * `description`: [**required**] *string* - Description of this SLO. 
+  * `goal`: [**required**] *string* - SLO goal (or target) (**MUST** be between 0 and 1).
+  * `backend`: [**required**] *string* - Backend name (**MUST** exist in SLO Generator Configuration).
+  * `method`: [**required**] *string* - Backend method to use (**MUST** exist in backend class definition).
+  * `service_level_indicator`: [**required**] *map* - SLI configuration. The content of this section is 
+  specific to each provider, see [`docs/providers`](./docs/providers).
+  * `error_budget_policy`: [*optional*] *string* - Error budget policy name 
+  (**MUST** exist in SLO Generator Configuration). If not specified, defaults to `default`.
+  * `exporters`: [*optional*] *string* - List of exporter names (**MUST** exist in SLO Generator Configuration).
+
+***Note:*** *you can use environment variables in your SLO configs by using 
+`${MY_ENV_VAR}` syntax to avoid having sensitive data in version control. 
+Environment variables will be replaced automatically at run time.*
+
+**&rarr; See [example SLO configuration](samples/cloud_monitoring/slo_gae_app_availability.yaml).**
+
+### Shared configuration
+The shared configuration (JSON or YAML) configures the `slo-generator` and acts 
+as a shared config for all SLO configs. It is composed of the following fields:
+
+* `backends`: [**required**] *map* - Data backends configurations. Each backend 
+  alias is defined as a key `<backend_name>/<suffix>`, and a configuration map.
+  ```yaml
+  backends:
+    cloud_monitoring/dev:
+      project_id: proj-cm-dev-a4b7
+    datadog/test:
+      app_key: ${APP_SECRET_KEY}
+      api_key: ${API_SECRET_KEY}
+  ```
+  See specific providers documentation for detailed configuration:
+    * [`cloud_monitoring`](docs/providers/cloud_monitoring.md#backend)
+    * [`cloud_service_monitoring`](docs/providers/cloud_service_monitoring.md#backend)
+    * [`prometheus`](docs/providers/prometheus.md#backend)
+    * [`elasticsearch`](docs/providers/elasticsearch.md#backend)
+    * [`datadog`](docs/providers/datadog.md#backend)
+    * [`dynatrace`](docs/providers/dynatrace.md#backend)
+    * [`<custom>`](docs/providers/custom.md#backend)
+  
+* `exporters`: A map of exporters to export results to. Each exporter is defined
+  as a key formatted as `<exporter_name>/<optional_suffix>`, and a map value 
+  detailing the exporter configuration.
+  ```yaml
+  exporters:
+    bigquery/dev:
+      project_id: proj-bq-dev-a4b7
+      dataset_id: my-test-dataset
+      table_id: my-test-table
+    prometheus:
+      url: ${PROMETHEUS_URL}
+  ```
+  See specific providers documentation for detailed configuration:
+    * [`bigquery`](docs/providers/bigquery.md#exporter) to export SLO reports to BigQuery for historical analysis and DataStudio reporting.
+    * [`cloudevent`](docs/providers/cloudevent.md#exporter) to stream SLO reports to Cloudevent receivers.
+    * [`pubsub`](docs/providers/pubsub.md#exporter) to stream SLO reports to Pubsub.
+    * [`cloud_monitoring`](docs/providers/cloud_monitoring.md#exporter) to export metrics to Cloud Monitoring.
+    * [`prometheus`](docs/providers/prometheus.md#exporter) to export metrics to Prometheus.
+    * [`datadog`](docs/providers/datadog.md#exporter) to export metrics to Datadog.
+    * [`dynatrace`](docs/providers/dynatrace.md#exporter) to export metrics to Dynatrace.
+    * [`<custom>`](docs/providers/custom.md#exporter) to export SLO data or metrics to a custom destination.
+  
+* `error_budget_policies`: [**required**] A map of various error budget policies.
+  * `<ebp_name>`: Name of the error budget policy. 
+    * `steps`: List of error budget policy steps, each containing the following fields:
+      * `window`: Rolling time window for this error budget.
+      * `alerting_burn_rate_threshold`: Target burnrate threshold over which alerting is needed.
+      * `urgent_notification`: boolean whether violating this error budget should trigger a page.
+      * `overburned_consequence_message`: message to show when the error budget is above the target.
+      * `achieved_consequence_message`: message to show when the error budget is within the target.
+
+  ```yaml
+  error_budget_policies:
+    default:
+      steps:
+      - name: 1 hour
+        burn_rate_threshold: 9
+        alert: true
+        message_alert: Page to defend the SLO
+        message_ok: Last hour on track
+        window: 3600
+      - name: 12 hours
+        burn_rate_threshold: 3
+        alert: true
+        message_alert: Page to defend the SLO
+        message_ok: Last 12 hours on track
+        window: 43200
+  ```
+
+**&rarr; See [example Shared configuration](samples/config.yaml).**
+
+## More documentation
+
+To go further with the SLO Generator, you can read:
+
+### [Build an SLO achievements report with BigQuery and DataStudio](docs/deploy/datastudio_slo_report.md)
+### [Deploy the SLO Generator in Cloud Run](docs/deploy/cloudrun.md)
+### [Deploy the SLO Generator in Kubernetes (Alpha)](docs/deploy/kubernetes.md)
+### [Deploy the SLO Generator in a CloudBuild pipeline](docs/deploy/cloudbuild.md)
+### [DEPRECATED: Deploy the SLO Generator on Google Cloud Functions (Terraform)](docs/deploy/cloudfunctions.md)
+### [Contribute to the SLO Generator](CONTRIBUTING.md)
+
+
+# [bitcoincore.org](https://bitcoincore.org) [![Build Status](https://travis-ci.org/bitcoin-core/bitcoincore.org.svg?branch=master)](https://travis-ci.org/bitcoin-core/bitcoincore.org)
+
+This repository is the source code of the Bitcoin Core project website built with Jekyll.
+
+## Directory structure
+
+  - `_posts/<lang>/posts` for blog articles.
+  - `_posts/<lang>/pages` for static pages.
+  - `_posts/<lang>/releases` for Bitcoin Core release notes
+
+File names *must* be in the format `Y-m-d-title.md`, e.g. `2015-12-31-title.md`. File names can be translated.
+
+## Translations
+
+See [CONTRIBUTING.md](/CONTRIBUTING.md#translation-process) for more information.
+
+## Front Matter notes
+
+The following `Front Matter` is required for the multilingual setup in all files. The required fields are as follows:
+
+  - `name:`      group name for unique article. Each translation must share the same group name, e.g. `october15-report`
+  - `id:`        each article translation must have a unique ID. Use the language code + `-name` field. e.g. `en-october15-report`
+  - `permalink:` the must include the language code, end a trailing slash, e.g. `/en/2015/12/31/report/`.
+  - `title:`     the translated title of the article
+  - `type:`      the content type (`pages`, `posts`, `releases`, `meetings`, etc.)
+  - `layout:`    the layout template (`page`, `post`, etc.)
+  - `lang:`      the language code (`en`, `fr`, etc.)
+
+```
+---
+title: Short Title
+name: short-title
+layout: post
+type: posts
+lang: en
+id: en-short-title
+permalink: /en/2016/01/01/short-title
+---
+```
+
+## Building
+
+This website is based on [Jekyll](https://jekyllrb.com/).  To build
+locally, [install Ruby 2.5.5](https://gorails.com/setup) using system
+packages, [rvm](https://rvm.io), [rbenv](https://github.com/rbenv/rbenv), or another method.
+Then clone this repository and change directory into it:
+
+    git clone https://github.com/bitcoin-core/bitcoincore.org.git
+    cd bitcoincore.org
+
+Install the `bundle` utility using the Ruby package manager, `gem`, and
+then use `bundle` to install the rest of the Ruby packages needed to
+build this site.  Note, depending on your system configuration, you may
+need to run `gem` as the superuser by putting "sudo" followed by a space
+before the `gem` command.  You shouldn't need to use `sudo` with the
+`bundle` command.
+
+    gem update --system
+    gem install bundler
+    bundle install
+
+To preview the site (this will launch a tiny webserver on port 4000):
+
+    bundle exec jekyll server --future
+
+To simply build the site (output placed in the `_site` directory):
+
+    bundle exec jekyll build --future
+
+Note that the `--future` parameter is only required if you're adding any
+pages dated in the future (such as prepared release announcements).
+
+To test the site:
+
+    bundle exec jekyll build --future --drafts --unpublished
+    bundle exec htmlproofer --disable-external --url-ignore '/^\/bin/.*/' ./_site
+
+The additional parameters to `jekyll build` ensure that all possible
+pages are built and checked.
+
+## Contributing
+
+Contributions welcome. Please see [CONTRIBUTING.md](/CONTRIBUTING.md) for details.
+
+## References
+
+The website uses an old version of the [Minimal Mistakes theme][].  The
+theme's website provides [documentation][mm docs], including information
+about [configuration variables][mm config], creating [pages and posts][mm
+content], adding [new Javascript][mm js], and more.  Note that
+current documentation may describe features not available in the old
+version of the theme used by the website.
+
+[minimal mistakes theme]: https://mmistakes.github.io/minimal-mistakes/
+[mm docs]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+[mm config]: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+[mm content]: https://mmistakes.github.io/minimal-mistakes/docs/posts/
+[mm js]: https://mmistakes.github.io/minimal-mistakes/docs/javascript/
